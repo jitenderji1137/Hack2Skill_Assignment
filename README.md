@@ -3,3 +3,6 @@
 
 
 ##  1. Access Given_URL and perform a file upload task.
+
+
+Upload an Image with a valid path
