@@ -17,4 +17,6 @@ cy.get('h3').should('have.text', 'File Uploaded!');
 ```
 
 Spec video recording:-
-https://jitenderji1137.github.io/Hack2Skill_Assignment/cypress/reports/html/videos/Upload_File.cy.js.mp4
+https://github.com/jitenderji1137/Hack2Skill_Assignment/assets/113350806/aecf1ee3-01d7-4393-b182-c5ff81f5893d
+
+
